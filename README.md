@@ -9,6 +9,7 @@ Welcome to the "Java Programming Repository." This repository is a comprehensive
 4. [Advanced Java](#advanced-java)
 5. [Strings](#strings)
 6. [Arrays](#arrays)
+7. [Practice Programs](#Practice-Programs)
 
 
 ## Introduction
@@ -54,7 +55,7 @@ Learn about arrays and array-related operations in Java:
 - [Array Manipulation](Java/Arrays)
 - [Multi-dimensional Arrays](Java/Arrays)
 
-- ## Practice Programs
+## Practice Programs
 
 A few Practice Programs that can help you dive into the applications of java concepts
 
