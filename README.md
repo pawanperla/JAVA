@@ -26,30 +26,30 @@ If you're new to Java programming, start by exploring the following resources:
 
 In this section, you will find tutorials and examples covering the fundamentals of Java programming:
 
-- [Variables and Data Types](java-basics/)
-- [Operators](java-basics/)
-- [Control Statements](java-basics/)
-- [Functions and Methods](java-basics/)
+- [Variables and Data Types](Java/Basics)
+- [Operators](Java/Basics)
+- [Control Statements](Java/Basics)
+- [Functions and Methods](Java/Basics)
 
 ## Advanced Java
 
 Explore advanced Java concepts and best practices:
-- [Object-Oriented Programming (OOP)](java-basics/oop.md)
-- [Exception Handling](java-basics/exception-handling.md)
-- [Collections Framework](advanced-java/collections.md)
-- [Multithreading](advanced-java/multithreading.md)
+- [Object-Oriented Programming (OOP)](Java)
+- [Exception Handling](Java/Exceptions)
+- [Collections Framework](Java/Collections)
+- [Multithreading](Java/MultiThreading)
 
 ## Strings
 
 Dive into string manipulation and Java's string-related features:
 
-- [String Manipulation](strings/string-manipulation.md)
-- [StringBuffer and StringBuilder](strings/string-buffer-builder.md)
+- [String Manipulation](Java/String)
+- [StringBuffer and StringBuilder](Java/String)
 
 ## Arrays
 
 Learn about arrays and array-related operations in Java:
 
-- [Introduction to Arrays](arrays/introduction.md)
-- [Array Manipulation](arrays/array-manipulation.md)
-- [Multi-dimensional Arrays](arrays/multi-dimensional.md)
+- [Introduction to Arrays](Java/Arrays)
+- [Array Manipulation](Java/Arrays)
+- [Multi-dimensional Arrays](Java/Arrays)
