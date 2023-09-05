@@ -53,3 +53,9 @@ Learn about arrays and array-related operations in Java:
 - [Introduction to Arrays](Java/Arrays)
 - [Array Manipulation](Java/Arrays)
 - [Multi-dimensional Arrays](Java/Arrays)
+
+- ## Practice Programs
+
+A few Practice Programs that can help you dive into the applications of java concepts
+
+- [Practice Programs](Java/PracticePrograms)
