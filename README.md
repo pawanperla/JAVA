@@ -10,6 +10,7 @@ Welcome to the "Java Programming Repository." This repository is a comprehensive
 5. [Strings](#strings)
 6. [Arrays](#arrays)
 7. [Practice Programs](#Practice-Programs)
+8. [Conversions](#Conversions)
 
 
 ## Introduction
@@ -60,3 +61,9 @@ Learn about arrays and array-related operations in Java:
 A few Practice Programs that can help you dive into the applications of java concepts
 
 - [Practice Programs](Java/PracticePrograms)
+
+## Conversions
+
+Contains all possible type conversions in java
+- [Conversions](Java/Conversions)
+
