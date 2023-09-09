@@ -1,5 +1,5 @@
 # JAVA
-Welcome to the "Java Programming Repository." This repository is a comprehensive resource for learning and practising Java programming, covering topics from the basics to advanced concepts, including OOPS.
+Welcome to the "Java Repository." This repository is a comprehensive resource for learning and practising Java programming, covering topics from the basics to advanced concepts, including OOPS.
 
 ## Table of Contents
 
